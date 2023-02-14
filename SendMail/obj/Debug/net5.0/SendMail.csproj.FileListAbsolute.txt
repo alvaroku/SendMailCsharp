@@ -1,0 +1,16 @@
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\bin\Debug\net5.0\SendMail.exe
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\bin\Debug\net5.0\SendMail.deps.json
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\bin\Debug\net5.0\SendMail.runtimeconfig.json
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\bin\Debug\net5.0\SendMail.runtimeconfig.dev.json
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\bin\Debug\net5.0\SendMail.dll
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\bin\Debug\net5.0\SendMail.pdb
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\obj\Debug\net5.0\SendMail.csproj.AssemblyReference.cache
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\obj\Debug\net5.0\SendMail.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\obj\Debug\net5.0\SendMail.AssemblyInfoInputs.cache
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\obj\Debug\net5.0\SendMail.AssemblyInfo.cs
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\obj\Debug\net5.0\SendMail.csproj.CoreCompileInputs.cache
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\obj\Debug\net5.0\SendMail.dll
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\obj\Debug\net5.0\ref\SendMail.dll
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\obj\Debug\net5.0\SendMail.pdb
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\obj\Debug\net5.0\SendMail.genruntimeconfig.cache
+D:\1.EjemplosProgramacion\CSharp\SendMail\SendMail\obj\Debug\net5.0\refint\SendMail.dll
